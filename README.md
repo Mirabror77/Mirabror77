@@ -1,50 +1,45 @@
-<h1 align="center">Hi 👋, I'm Komronbek</h1>
+<h1 align="center">Hi 👋, I'm Mirabror</h1>
 <h3 align="center">
-  Software Developer based in London, UK<br>
-  Passionate about building high-performance applications and creating seamless user experiences.
+  Data Scientist in London, UK<br>
+  Enthusiastic about analyzing complex datasets, applying machine learning techniques, and solving real-world problems through data-driven solutions.
 </h3>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a dedicated and efficient developer with a strong desire to craft beautiful UI effects and robust, scalable applications. I enjoy learning new technologies, solving real-world problems, and collaborating with diverse teams.
+Dedicated and efficient data enthusiast with a strong desire to analyze complex datasets, build predictive models, and generate actionable insights. I enjoy learning new technologies, solving real-world problems, and collaborating with diverse teams.
 
 ---
 
 ## 🚀 Skills & Technologies
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/ML-F7931E?style=for-the-badge&logo=apache-zeppelin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data Visualization-FF6F61?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
+
 
 ---
 
 ## 🌟 Featured Projects
 
-- [NewHub](https://onenewham.vercel.app)  
-  NewHub is a central directory connecting Newham’s VCF organisations with residents, professionals, and services to support the community.
-
-- [The Football Manager App](https://football-task.vercel.app/)  
-  A university final project that lets users manage teams, track stats, and simulate football matches.
+YOLO‑Traffic‑Monitor
+Real‑time vehicle detection & traffic flow analysis using YOLOv8, OpenCV, and Pandas. Tracks cars, buses, trucks, and motorbikes; logs crossing events; generates analytics charts.
+EV Website
+Responsive website about electric vehicles (e-bikes, hybrids) built with HTML, CSS, and JavaScript.
+Python Game
+Interactive game built with Python and Pygame. Uses object-oriented programming to create multiple game levels and scoring logic.
 
 ---
 
 ## 🌐 Connect with Me
 
-- Email: komronbekolimovme@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/komronbek-olimov-00648727a)
-- [Instagram](https://www.instagram.com/komronbek.olimov/)
+- Email: omirabror7@gmail.com
+- [LinkedIn](www.linkedin.com/in/mirabror-olimov-315353299)
+- [Instagram](https://www.instagram.com/mirabror_o1/)
