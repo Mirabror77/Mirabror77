@@ -29,13 +29,13 @@ Dedicated and efficient data enthusiast with a strong desire to analyze complex 
 
 ## 🌟 Featured Projects
 
-YOLO‑Traffic‑Monitor
+YOLO‑Traffic‑Monitor: 
 Real‑time vehicle detection & traffic flow analysis using YOLOv8, OpenCV, and Pandas. Tracks cars, buses, trucks, and motorbikes; logs crossing events; generates analytics charts.
 
-EV Website
+EV Website: 
 Responsive website about electric vehicles (e-bikes, hybrids) built with HTML, CSS, and JavaScript.
 
-Python Game
+Python Game: 
 Interactive game built with Python and Pygame. Uses object-oriented programming to create multiple game levels and scoring logic.
 
 ---
