@@ -41,5 +41,5 @@ Interactive game built with Python and Pygame. Uses object-oriented programming 
 ## 🌐 Connect with Me
 
 - Email: omirabror7@gmail.com
-- [LinkedIn](www.linkedin.com/in/mirabror-olimov-315353299)
+- [LinkedIn](www.linkedin.com/in/mirabror-olimov-315353299/)
 - [Instagram](https://www.instagram.com/mirabror_o1/)
